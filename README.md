@@ -1,4 +1,4 @@
-[Follow me](https://ccomool.net)
+[Follow me](https://www.comool.net)
 
 <!-- ## Welcome to GitHub Pages -->
 
