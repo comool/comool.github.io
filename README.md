@@ -1,4 +1,8 @@
-[Follow me](https://www.comool.net)
+# comool landing page
+
+[landing page](https://www.comool.net)
+
+will only redirect to www.comool.net
 
 <!-- ## Welcome to GitHub Pages -->
 
